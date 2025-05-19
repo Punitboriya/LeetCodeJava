@@ -28,7 +28,6 @@ public class LC_3046_SA {
                 return false;
             }
         }
-
         return true;
 
     }
