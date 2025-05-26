@@ -1,2 +1,2 @@
 # LeetCodeJava
-I Practices this leetcode problems
+I Practices these leetcode problems
